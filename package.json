@@ -1,0 +1,14 @@
+{
+  "name": "ibook-api",
+  "author": "Arnon",
+  "version": "1.0.0",
+  "description": "Fake api for iBook Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
