@@ -1,4 +1,4 @@
-# iBook-API
+# Node-iBook-API
 
 ## Build Setup
 
